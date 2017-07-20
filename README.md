@@ -1,2 +1,2 @@
-# janisnjohn.github.io
-github pages
+# Basic-Portfolio
+Portfolio
